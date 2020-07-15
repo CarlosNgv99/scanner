@@ -1,0 +1,60 @@
+Grafica:{
+    Nombre:"Corto #1";
+        Continente:{
+        Nombre: "AmericaDelNorte";
+            Pais:{
+            Nombre:"Canada";
+            Poblacion: 35295;
+            Saturacion:75%;
+            Bandera: "C:\imagen\Canada.jpg";
+            }
+            Pais:{
+            Nombre:"Mexico";
+            Poblacion: 119713;
+            Saturacion:35%;
+            Bandera: "images/mexico.jpg";
+            }
+            Pais:{
+            Nombre:"EstadosUnidos";
+            Poblacion: 512300;
+            Saturacion:73%;
+            Bandera: "C:\imagen\EEUU.jpg";
+            }
+        }
+        Continente:{
+        Nombre: "AmericaDelSur";
+            Pais:{
+            Nombre:"CaboVerde";
+            Poblacion: 35000;
+            Saturacion:50%;
+            Bandera: "C:\imagen\CaboVerde.jpg";
+            }
+            Pais:{
+            Nombre:"Colombia";
+            Poblacion: 4000;
+            Saturacion:35%;
+            Bandera: "C:\imagen\CaboVerde.jpg";
+            }
+        }
+        Continente:{
+        Nombre: "Oceania";
+            Pais:{
+            Nombre:"Indonesia";
+            Poblacion: 55000;
+            Saturacion:74%;
+            Bandera: "C:\imagen\Indonesia.jpg";
+            }
+            Pais:{
+            Nombre:"Australia";
+            Poblacion: 5000;
+            Saturacion:35%;
+            Bandera: "C:\imagen\Indonesia.jpg";
+            }
+            Pais:{
+            Nombre:"Singapur";
+            Poblacion: 3000;
+            Saturacion:99%;
+            Bandera: "C:\imagen\Indonesia.jpg";
+            }
+        }
+}

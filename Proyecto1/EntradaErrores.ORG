@@ -1,0 +1,50 @@
+grafica:{
+@@@
+    nombre:"Gráfico"; 
+    continente{ 
+    nombre: "Asia"; 
+        pais:{ 
+            nombre:"Japon"; 
+            poblacion: 2352342; 
+            saturacion:80%; 
+            bandera: "images/japon.jpg"; 
+        } °
+        pais:{ 
+            bandera: "images/china.jpg"; 
+            nombre:"China"; 
+            poblacion:1350000000 ; 
+            saturacion:95%; 
+        } 
+        pais:{ 
+|
+        saturacion:40%; 
+        poblacion: 2352342; 
+        nombre:"Korea"; 
+        bandera: "images/korea.jpg"; 
+        } 
+ 
+    } #
+   
+    continente{ 
+    nombre: "America"; 
+        pais:{ 
+        nombre:"Canada"; 
+        poblacion: 23423423; 
+        saturacion:20%; 
+        bandera: "images/canada.jpg" 
+        } 
+        pais:{ 
+        poblacion: 17263239; 
+        nombre:"Guatemala"; 
+        saturacion:40%; 
+        bandera: "images/guatemala.jpg" 
+        }    
+        pais:{ 
+        saturacion:60%; 
+        nombre:"Chile"; 
+        poblacion: 235234234; 
+        bandera: "images/chile.jpg" 
+        } 
+    } 
+	
+} 

@@ -1,0 +1,50 @@
+Grafica:{
+
+    Nombre:"Grafico"; 
+    Continente{ 
+    Nombre: "Asia"; 
+        Pais:{ 
+            Nombre:"Japon"; 
+            Poblacion: 2352342; 
+            Saturacion:80%; 
+            Bandera: "images/japon.jpg"; 
+        } 
+        Pais:{ 
+            Bandera: "images/china.jpg"; 
+            Nombre:"China"; 
+            Poblacion:1350000000 ; 
+            Saturacion:95%; 
+        } 
+        Pais:{ 
+
+        Saturacion:40%; 
+        Poblacion: 2352342; 
+        Nombre:"Korea"; 
+        Bandera: "images/korea.jpg"; 
+        } 
+ 
+    } 
+   
+    Continente{ 
+    Nombre: "America"; 
+        Pais:{ 
+        Nombre:"Canada"; 
+        Poblacion: 23423423; 
+        Saturacion:20%; 
+        Bandera: "images/canada.jpg" 
+        } 
+        Pais:{ 
+        Poblacion: 17263239; 
+        Nombre:"Guatemala"; 
+        Saturacion:40%; 
+        Bandera: "images/guatemala.jpg" 
+        }    
+        Pais:{ 
+        Saturacion:60%; 
+        Nombre:"Chile"; 
+        Poblacion: 235234234; 
+        Bandera: "images/chile.jpg" 
+        } 
+    } 
+	
+} 
